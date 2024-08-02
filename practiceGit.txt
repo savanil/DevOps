@@ -1,2 +1,5 @@
-
 This is my first git commit from command line interface
+
+changes added from git hub platform - added personal access token in developer settings
+
+
